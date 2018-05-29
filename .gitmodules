@@ -4,3 +4,6 @@
 [submodule "defold"]
 	path = defold
 	url = git@github.com:programmeramera/defold-flappy-bird.git
+[submodule "monogame"]
+	path = monogame
+	url = git@github.com:coderox/FlappyXNA.git
