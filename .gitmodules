@@ -7,3 +7,6 @@
 [submodule "monogame"]
 	path = monogame
 	url = git@github.com:coderox/FlappyXNA.git
+[submodule "phaser"]
+	path = phaser
+	url = git@github.com:coderox/flappy-bird-temp.git
