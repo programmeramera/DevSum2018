@@ -1,3 +1,6 @@
 [submodule "unity3d"]
 	path = unity3d
 	url = git@github.com:programmeramera/FlappyBirdStyleGame.git
+[submodule "defold"]
+	path = defold
+	url = git@github.com:programmeramera/defold-flappy-bird.git
