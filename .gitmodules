@@ -10,3 +10,6 @@
 [submodule "phaser"]
 	path = phaser
 	url = git@github.com:coderox/flappy-bird-temp.git
+[submodule "opengl"]
+	path = opengl
+	url = git@github.com:programmeramera/FlappyOGL.git
