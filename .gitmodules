@@ -13,3 +13,6 @@
 [submodule "opengl"]
 	path = opengl
 	url = git@github.com:programmeramera/FlappyOGL.git
+[submodule "directxtk"]
+	path = directxtk
+	url = git@github.com:programmeramera/FlappyDXTK.git
